@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    color: white;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: black;
+}
+ .nav{
+  padding: 20px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+ }
+ .new,.hom,.ho{
+    margin-left: 40px;
+ }
+ .hom{
+    font-family: "Ubuntu", serif;
+    font-size: xx-large;
+    font-weight: 900;
+ }
+ span{
+    color: violet;
+ }
+ .home,.ho{
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: "Ubuntu", serif;
+ }
+ .col1{
+    height: 100%;
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+ }
+ .col2{
+    height: 100%;
+    width: 45%;
+   
+    display: flex;
+ }
+ .lt{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 20px;
+background-color: violet;
+height: 40px;
+width: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+font-family: "Ubuntu", serif;
+ }
+ 
+.img{
+   
+margin-top: 30px;
+}
+.div{
+    display: flex;
+    padding: 20px;
+}
+.hi{
+    font-size: 40px;
+    margin-top: 200px;
+    font-family: "Ubuntu", serif;
+    font-size: 50px;
+    font-weight: 900;
+    
+}
+.con{
+font-size:40px ;
+margin-top: 20px;
+font-family: "Ubuntu", serif;
+font-weight: 900;
+}
+.euta{
+font-size: 20px;
+margin-top: 20px;
+font-family: "Ubuntu", serif;
+
+}
+.div{
+margin-top: 20px;
+}
+button{
+padding: 10px;
+border-radius: 10px;
+background-color: violet;
+font-size: 20px;
+color: white;
+align-items: center;
+font-family: "Ubuntu", serif;
+font-weight: 700;
+}
+.but{
+    margin-left: 20px;
+    
+}
+.bip{
+    margin: 10px;
+    display: flex;
+}
+.icon{
+    margin-left: 20px;
+}
+button:hover{
+    background-color: bisque;
+    color: black;
+}
+.butt{
+    margin-top: 20px; 
+}
+.ew{
+    color: violet;
+}
